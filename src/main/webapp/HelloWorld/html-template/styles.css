@@ -1,0 +1,39 @@
+html, body  { 
+   height:100%;
+}
+body { 
+   margin:0; 
+   padding:0; 
+   overflow:auto; 
+   text-align:center;		
+}   
+object:focus { 
+   outline:none; 
+}
+#flashContent { 
+   display:none;	
+}
+
+.pluginHeader {
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:14px;
+   color:#9b1204;
+   text-decoration:none;
+   font-weight:bold;
+}
+
+.pluginInstallText {
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:12px;
+   color:#000000;
+   line-height:18px;
+   font-style:normal;
+}
+
+.pluginText { 
+   font-family:Arial, Helvetica, sans-serif;
+   font-size:12px;
+   color:#000000;
+   line-height:18px;
+   font-style:normal;
+}

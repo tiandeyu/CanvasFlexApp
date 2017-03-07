@@ -1,0 +1,24 @@
+/* CSS file */
+@namespace s "library://ns.adobe.com/flex/spark";
+@namespace mx "library://ns.adobe.com/flex/mx";
+
+.heading
+{
+   fontFamily: Arial, Helvetica, sans-serif;
+   fontSize: 17px;
+   color: #9b1204;
+   textDecoration:none;
+   fontWeight:normal;
+}
+
+.button {
+   fontWeight: bold;			
+}
+
+.container {
+   cornerRadius :10;
+   horizontalCenter :0;	
+   borderColor: #777777;
+   verticalCenter:0;
+   backgroundColor: #efefef;
+}
