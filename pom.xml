@@ -39,6 +39,11 @@
             <artifactId>jetty-webapp</artifactId>
             <version>7.6.0.v20120127</version>
         </dependency>
+        <dependency>
+            <groupId>asm</groupId>
+            <artifactId>asm</artifactId>
+            <version>3.2</version>
+        </dependency>
         <!-- Jackson -->
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
